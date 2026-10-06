@@ -1,0 +1,6 @@
+{
+  "name": "cairn",
+  "description": "Cairn's MCP tools and the guide to working with Cairn, both from the installed app, so they match the version the owner runs.",
+  "author": { "name": "benorfaz" },
+  "repository": "https://github.com/benorfaz/cairn-plugin"
+}

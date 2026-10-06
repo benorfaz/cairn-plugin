@@ -1,0 +1,14 @@
+{
+  "name": "cairn",
+  "owner": {
+    "name": "benorfaz"
+  },
+  "description": "Cairn for Claude Code: the plugin that connects Claude to the Cairn on your Mac.",
+  "plugins": [
+    {
+      "name": "cairn",
+      "source": "./",
+      "description": "Cairn's MCP tools and the guide to working with Cairn, both from the installed app."
+    }
+  ]
+}
